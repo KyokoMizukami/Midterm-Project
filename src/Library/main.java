@@ -63,7 +63,7 @@ public class main {
 					for(int i = 0; i < 3; i++) {
 			            System.out.println(list.get(i));
 			        }
-					System.out.println("\nEnter the book title you want: ");
+					System.out.println("\nEnter the book title number that you want: ");
 					 booknumber = scanner.next();
 					 switch(booknumber) {
 					 case "1":
